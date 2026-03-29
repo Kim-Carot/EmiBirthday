@@ -38,7 +38,7 @@ export default function Page1() {
         />
         
         {/* Text positioned in the upper half of the oval */}
-        <div className="absolute top-[32%] left-1/2 transform -translate-x-1/2 text-center w-full px-4">
+        <div className="absolute top-[35%] left-1/2 transform -translate-x-1/2 text-center w-full px-4">
           <h1 
             className="text-xl sm:text-2xl md:text-3xl leading-tight"
             style={{ 
@@ -48,7 +48,7 @@ export default function Page1() {
               fontWeight: "normal",
             }}
           >
-            Opps, it’s your 
+            Opps, 
           </h1>
           <h2 
             className="text-xl sm:text-2xl md:text-3xl leading-tight"
@@ -59,8 +59,19 @@ export default function Page1() {
               fontWeight: "normal",
             }}
           >
-            20th birthday!
+            it’s your 
           </h2>
+          <h3 
+            className="text-xl sm:text-2xl md:text-3xl leading-tight"
+            style={{ 
+              color: "#8B2F39",
+              fontFamily: "'Monotype Corsiva', cursive",
+              fontStyle: "italic",
+              fontWeight: "normal",
+            }}
+          >
+            20th birthday!
+          </h3>
         </div>
 
         {/* Letter Icon positioned in the center of the oval with animations */}
