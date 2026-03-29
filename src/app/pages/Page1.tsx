@@ -48,9 +48,9 @@ export default function Page1() {
               fontWeight: "normal",
             }}
           >
-            Opps, it's your
+            Opps 🥕 
           </h1>
-          {/* <h2 
+          <h2 
             className="text-xl sm:text-2xl md:text-3xl leading-tight"
             style={{ 
               color: "#8B2F39",
@@ -60,7 +60,7 @@ export default function Page1() {
             }}
           >
             it’s your 
-          </h2> */}
+          </h2>
           <h3 
             className="text-xl sm:text-2xl md:text-3xl leading-tight"
             style={{ 
