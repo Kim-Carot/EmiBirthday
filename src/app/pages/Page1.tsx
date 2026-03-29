@@ -48,7 +48,7 @@ export default function Page1() {
               fontWeight: "normal",
             }}
           >
-            🐰🐰🐰 
+            On your
           </h1>
           <h2 
             className="text-xl sm:text-2xl md:text-3xl leading-tight"
@@ -59,10 +59,10 @@ export default function Page1() {
               fontWeight: "normal",
             }}
           >
-            On your 
+            20th birthday! 
           </h2>
           <h3 
-            className="text-xl sm:text-2xl md:text-3xl leading-tight"
+            className="text-lg sm:text-xl md:text-2xl leading-tight"
             style={{ 
               color: "#8B2F39",
               fontFamily: "'Monotype Corsiva', cursive",
@@ -70,7 +70,7 @@ export default function Page1() {
               fontWeight: "normal",
             }}
           >
-            20th birthday!
+            -from Kim-
           </h3>
         </div>
 
