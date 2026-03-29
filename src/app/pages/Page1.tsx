@@ -38,7 +38,7 @@ export default function Page1() {
         />
         
         {/* Text positioned in the upper half of the oval */}
-        <div className="absolute top-[36%] left-1/2 transform -translate-x-1/2 text-center w-full px-4">
+        <div className="absolute top-[35%] left-1/2 transform -translate-x-1/2 text-center w-full px-4">
           <h1 
             className="text-xl sm:text-2xl md:text-3xl leading-tight"
             style={{ 
@@ -48,7 +48,7 @@ export default function Page1() {
               fontWeight: "normal",
             }}
           >
-            Opps 🥕 
+            🐰🐰🐰 
           </h1>
           <h2 
             className="text-xl sm:text-2xl md:text-3xl leading-tight"
@@ -59,7 +59,7 @@ export default function Page1() {
               fontWeight: "normal",
             }}
           >
-            it’s your 
+            It’s your 
           </h2>
           <h3 
             className="text-xl sm:text-2xl md:text-3xl leading-tight"
@@ -76,7 +76,7 @@ export default function Page1() {
 
         {/* Letter Icon positioned in the center of the oval with animations */}
         <motion.div
-          className="absolute top-[65%] left-1/2 transform -translate-x-1/2 -translate-y-1/2 cursor-pointer"
+          className="absolute top-[66%] left-1/2 transform -translate-x-1/2 -translate-y-1/2 cursor-pointer"
           style={{
             filter: "drop-shadow(0 8px 12px rgba(0, 0, 0, 0.25))",
           }}
