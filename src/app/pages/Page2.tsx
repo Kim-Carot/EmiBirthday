@@ -109,11 +109,11 @@ export default function Page2() {
 
           {/* BOTTOM - 5 Animal Images in a Row */}
           <div className="flex items-center justify-center pb-4">
-            <img src={foxImg} alt="Fox" className="w-29 h-32 object-contain" style={{ margin: "5px" }} />
-            <img src={duckImg} alt="Duck" className="w-29 h-32 object-contain" style={{ margin: "5px" }} />
-            <img src={mouseWithCupcakeImg} alt="Mouse with Cupcake" className="w-29 h-29 object-contain" style={{ margin: "5px" }} />
-            <img src={miceCakeImg} alt="Mice with Cake" className="w-29 h-29 object-contain" style={{ margin: "5px" }} />
-            <img src={cupcakeStandImg} alt="Cupcake Stand" className="w-29 h-32 object-contain" style={{ margin: "5px" }} />
+            <img src={foxImg} alt="Fox" className="w-29 h-32 object-contain" style={{ margin: "1px" }} />
+            <img src={duckImg} alt="Duck" className="w-29 h-32 object-contain" style={{ margin: "1px" }} />
+            <img src={mouseWithCupcakeImg} alt="Mouse with Cupcake" className="w-29 h-29 object-contain" style={{ margin: "1px" }} />
+            <img src={miceCakeImg} alt="Mice with Cake" className="w-29 h-29 object-contain" style={{ margin: "1px" }} />
+            <img src={cupcakeStandImg} alt="Cupcake Stand" className="w-29 h-32 object-contain" style={{ margin: "1px" }} />
           </div>
         </div>
       </div>
