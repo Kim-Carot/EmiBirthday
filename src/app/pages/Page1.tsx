@@ -38,7 +38,7 @@ export default function Page1() {
         />
         
         {/* Text positioned in the upper half of the oval */}
-        <div className="absolute top-[32%] left-1/2 transform -translate-x-1/2 text-center w-full px-4">
+        <div className="absolute top-[35%] left-1/2 transform -translate-x-1/2 text-center w-full px-4">
           <h1 
             className="text-xl sm:text-2xl md:text-3xl leading-tight"
             style={{ 
@@ -103,7 +103,7 @@ export default function Page1() {
                 : {}
             }
             transition={{
-              duration: 0.6,
+              duration: 0.9,
               repeat: isHovered ? Infinity : 0,
               repeatType: "loop",
             }}
