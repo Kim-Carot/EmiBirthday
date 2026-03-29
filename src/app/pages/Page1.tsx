@@ -70,7 +70,7 @@ export default function Page1() {
               fontWeight: "normal",
             }}
           >
-            ۶ৎfrom Kim
+            ♡from Kim
           </h3>
         </div>
 
