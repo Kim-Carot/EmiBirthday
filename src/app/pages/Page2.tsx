@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router";
 import { useState } from "react";
 import messageCardImg from "../../assets/86c5278a46366168b961337e250c6c59d2fce100.png";
 import backgroundImg from "../../assets/070baf4219ed769b752fd959fa348ee1b76dd46a.png";
